@@ -48,7 +48,7 @@ while(g==121)
     printf("%d",c);
   }
 }
- if(g==110)
+ else if(g==110)
  {
   break;
 }
